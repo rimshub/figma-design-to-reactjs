@@ -8,8 +8,8 @@
 
 ### Links
 
-- Solution: [Code](https://github.com/rimshub/react-intro-section-dropdown-navigation/tree/main/src)
-- Live Site URL: [Live Site]()
+- Solution: [Code](https://github.com/rimshub/figma-design-to-reactjs/tree/main/src)
+- Live Site URL: [Live Site](https://rimshub.github.io/figma-design-to-reactjs/)
 
 ### Built with
 
